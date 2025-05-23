@@ -2,9 +2,10 @@
   {
     "number": 0,
     "username": "smslv",
-    "platform": "",
     "joined": "2025-05-18",
-    "badge": "Wizard",
-    "rank": "Gold"
+    "skills": {
+      "designer": 3,
+      "developer": 3
+    }
   }
 ]
