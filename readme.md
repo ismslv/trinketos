@@ -2,7 +2,7 @@
 
 *Welcome, adventurer. The glyphs are aligned. The signal is stable. The vault responds.*
 
-**TrinketOS** is a pixel-art, terminal-style launcher and system shell for Android-based handheld consoles — such as the Retroid Pocket Flip 2 or AYN Odin. Designed specifically for horizontal screens and controller input, it transforms your device into a personal retro station — cozy, themed, and weirdly alive.
+**TrinketOS** is a pixel-art, terminal-style launcher and system shell for Android-based handheld consoles — such as the Retroid Pocket or AYN Odin. Designed specifically for horizontal screens and controller input, it transforms your device into a personal retro station — cozy, themed, and weirdly alive.
 
 <p align="center">
   <img src="https://trinketos.org/images/flip.png?2" width="600"/>
