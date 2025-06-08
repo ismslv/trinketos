@@ -64,7 +64,7 @@ If you like what you see, consider supporting development:
 
 ## 🌍 Links
 
-| 🔗 [Official Site](https://trinketos.org)<br>🎥 [YouTube Channel](https://youtube.com/@trinket-os)<br>🐙 [GitHub Repository](https://github.com/ismslv/trinketos)<br>🕹️ [Download on Itch.io](https://smslv.itch.io/trinketos)<br>💌 [Contact us](mailto:contact@trinketos.org) | 🪴️ [Changelog](https://github.com/ismslv/trinketos/changelog.md)<br>🍎️ [Releases](https://github.com/ismslv/trinketos/releases)<br>🪏 [Issues and Suggestions](https://github.com/ismslv/trinketos/issues)<br><br><br>|
+| 🔗 [Official Site](https://trinketos.org)<br>🎥 [YouTube Channel](https://youtube.com/@trinket-os)<br>🐙 [GitHub Repository](https://github.com/ismslv/trinketos)<br>🕹️ [Download on Itch.io](https://smslv.itch.io/trinketos)<br>💌 [Contact us](mailto:contact@trinketos.org) | 🪴️ [Changelog](https://github.com/ismslv/trinketos/blob/main/changelog.md)<br>🍎️ [Releases](https://github.com/ismslv/trinketos/releases)<br>🪏 [Issues and Suggestions](https://github.com/ismslv/trinketos/issues)<br><br><br>|
 | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 > *TrinketOS is a living station. A vault terminal brought back to life. A small world for those who like things strange, handcrafted, and full of soul.*
