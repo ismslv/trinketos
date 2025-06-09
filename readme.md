@@ -1,4 +1,8 @@
-# TrinketOS
+<p align="center">
+<img src="https://trinketos.org/images/logo_long.png?1" width="300px"/>
+</p>
+
+---
 
 *Welcome, adventurer. The glyphs are aligned. The signal is stable. The vault responds.*
 
