@@ -1,5 +1,5 @@
 ---
-name: Feature request
+name: I want a feature
 about: Suggest an idea for this project
 title: ''
 labels: enhancement
