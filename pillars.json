@@ -13,5 +13,13 @@
     "skills": {
       "bard": 2
     }
+  },
+  {
+    "username": "techdweeb",
+    "joined": "2025-06-15",
+    "skills": {
+      "patron": 3,
+      "bard": 4
+    }
   }
 ]
