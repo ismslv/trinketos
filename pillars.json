@@ -21,5 +21,12 @@
       "patron": 3,
       "bard": 4
     }
+  },
+  {
+    "username": "gravenutterance",
+    "joined": "2025-06-17",
+    "skills": {
+      "patron": 1
+    }
   }
 ]
