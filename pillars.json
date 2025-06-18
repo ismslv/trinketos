@@ -35,5 +35,20 @@
     "skills": {
       "patron": 1
     }
+  },
+  {
+    "username": "sadmemelord",
+    "joined": "2025-06-17",
+    "skills": {
+      "patron": 1
+    }
+  },
+  {
+    "username": "ace",
+    "joined": "2025-06-18",
+    "skills": {
+      "engineer": 1,
+      "patron": 1
+    }
   }
 ]
