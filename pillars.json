@@ -50,5 +50,12 @@
       "engineer": 1,
       "patron": 1
     }
+  },
+  {
+    "username": "NecroPoster",
+    "joined": "2025-06-18",
+    "skills": {
+      "patron": 1
+    }
   }
 ]
