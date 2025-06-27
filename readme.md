@@ -39,7 +39,7 @@
 
 TrinketOS is designed for those who:
 
-- Missed the warmth of early computer UIs.
+- Miss the warmth of early computer UIs.
 - Believe their device should feel personal, not mass-produced.
 - Want a handheld that feels like an *artifact*, not just another app grid.
 
