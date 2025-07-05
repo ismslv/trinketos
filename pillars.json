@@ -57,5 +57,19 @@
     "skills": {
       "patron": 1
     }
+  },
+  {
+    "username": "thomi",
+    "joined": "2025-07-04",
+    "skills": {
+      "patron": 1
+    }
+  },
+  {
+    "username": "cloneasaurus",
+    "joined": "2025-07-04",
+    "skills": {
+      "adventurer": 5
+    }
   }
 ]
