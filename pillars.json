@@ -71,5 +71,12 @@
     "skills": {
       "adventurer": 5
     }
+  },
+  {
+    "username": "strings",
+    "joined": "2025-07-04",
+    "skills": {
+      "patron": 3
+    }
   }
 ]
