@@ -92,5 +92,13 @@
     "skills": {
       "patron": 3
     }
+  },
+  {
+    "username": "omgmog",
+    "joined": "2025-07-24",
+    "skills": {
+      "adventurer": 5,
+      "engineer": 3
+    }
   }
 ]
