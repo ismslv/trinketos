@@ -108,5 +108,12 @@
       "engineer": 1,
       "patron": 3
     }
+  },
+  {
+    "username": "Kathiel Rayna",
+    "joined": "2025-09-04",
+    "skills": {
+      "patron": 1
+    }
   }
 ]
