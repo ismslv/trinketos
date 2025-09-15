@@ -18,7 +18,7 @@
     "username": "techdweeb",
     "joined": "2025-06-15",
     "skills": {
-      "patron": 3,
+      "patron": 1,
       "bard": 4
     }
   },
@@ -80,13 +80,6 @@
     }
   },
   {
-    "username": "DeathPopStar",
-    "joined": "2025-07-09",
-    "skills": {
-      "patron": 1
-    }
-  },
-  {
     "username": "slayne",
     "joined": "2025-07-10",
     "skills": {
@@ -105,8 +98,7 @@
     "username": "kyo",
     "joined": "2025-09-02",
     "skills": {
-      "engineer": 1,
-      "patron": 3
+      "engineer": 1
     }
   },
   {
