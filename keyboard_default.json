@@ -1,0 +1,440 @@
+[
+  {
+    "name": "lowercase",
+    "keys": [
+      {
+        "label": "a"
+      },
+      {
+        "label": "b"
+      },
+      {
+        "label": "c"
+      },
+      {
+        "label": "d"
+      },
+      {
+        "label": "e"
+      },
+      {
+        "label": "f"
+      },
+      {
+        "label": "g"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "h"
+      },
+      {
+        "label": "i"
+      },
+      {
+        "label": "j"
+      },
+      {
+        "label": "k"
+      },
+      {
+        "label": "l"
+      },
+      {
+        "label": "m"
+      },
+      {
+        "label": "n"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "o"
+      },
+      {
+        "label": "p"
+      },
+      {
+        "label": "q"
+      },
+      {
+        "label": "r"
+      },
+      {
+        "label": "s"
+      },
+      {
+        "label": "t"
+      },
+      {
+        "label": "u"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "Æ",
+        "type": "SWITCH",
+        "action": "uppercase"
+      },
+      {
+        "label": "v"
+      },
+      {
+        "label": "w"
+      },
+      {
+        "label": "x"
+      },
+      {
+        "label": "y"
+      },
+      {
+        "label": "z"
+      },
+      {
+        "label": "◀",
+        "type": "BACKSPACE"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "🯰",
+        "type": "SWITCH",
+        "action": "numeric"
+      },
+      {
+        "label": "⁈",
+        "type": "SWITCH",
+        "action": "symbols"
+      },
+      {
+        "label": " "
+      },
+      {
+        "label": "'"
+      },
+      {
+        "label": ","
+      },
+      {
+        "label": "⮐",
+        "type": "ENTER"
+      }
+    ]
+  },
+  {
+    "name": "uppercase",
+    "keys": [
+      {
+        "label": "A"
+      },
+      {
+        "label": "B"
+      },
+      {
+        "label": "C"
+      },
+      {
+        "label": "D"
+      },
+      {
+        "label": "E"
+      },
+      {
+        "label": "F"
+      },
+      {
+        "label": "G"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "H"
+      },
+      {
+        "label": "I"
+      },
+      {
+        "label": "J"
+      },
+      {
+        "label": "K"
+      },
+      {
+        "label": "L"
+      },
+      {
+        "label": "M"
+      },
+      {
+        "label": "N"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "O"
+      },
+      {
+        "label": "P"
+      },
+      {
+        "label": "Q"
+      },
+      {
+        "label": "R"
+      },
+      {
+        "label": "S"
+      },
+      {
+        "label": "T"
+      },
+      {
+        "label": "U"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "æ",
+        "type": "SWITCH",
+        "action": "lowercase"
+      },
+      {
+        "label": "V"
+      },
+      {
+        "label": "W"
+      },
+      {
+        "label": "X"
+      },
+      {
+        "label": "Y"
+      },
+      {
+        "label": "Z"
+      },
+      {
+        "label": "◀",
+        "type": "BACKSPACE"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "🯰",
+        "type": "SWITCH",
+        "action": "numeric"
+      },
+      {
+        "label": "⁈",
+        "type": "SWITCH",
+        "action": "symbols"
+      },
+      {
+        "label": " "
+      },
+      {
+        "label": "'"
+      },
+      {
+        "label": ","
+      },
+      {
+        "label": "⮐",
+        "type": "ENTER"
+      }
+    ]
+  },
+  {
+    "name": "numeric",
+    "keys": [
+      {
+        "label": "."
+      },
+      {
+        "label": "\u0026"
+      },
+      {
+        "label": "/"
+      },
+      {
+        "label": "×"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "7"
+      },
+      {
+        "label": "8"
+      },
+      {
+        "label": "9"
+      },
+      {
+        "label": "-"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "4"
+      },
+      {
+        "label": "5"
+      },
+      {
+        "label": "6"
+      },
+      {
+        "label": "+"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "1"
+      },
+      {
+        "label": "2"
+      },
+      {
+        "label": "3"
+      },
+      {
+        "label": "◀",
+        "type": "BACKSPACE"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "æ",
+        "type": "SWITCH",
+        "action": "lowercase"
+      },
+      {
+        "label": "⁈",
+        "type": "SWITCH",
+        "action": "symbols"
+      },
+      {
+        "label": "0"
+      },
+      {
+        "label": "⮐",
+        "type": "ENTER"
+      }
+    ]
+  },
+  {
+    "name": "symbols",
+    "keys": [
+      {
+        "label": "!"
+      },
+      {
+        "label": "?"
+      },
+      {
+        "label": "\u003c"
+      },
+      {
+        "label": "\u003e"
+      },
+      {
+        "label": ";"
+      },
+      {
+        "label": ":"
+      },
+      {
+        "label": "|"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "\""
+      },
+      {
+        "label": "/"
+      },
+      {
+        "label": "("
+      },
+      {
+        "label": ")"
+      },
+      {
+        "label": "\""
+      },
+      {
+        "label": "@"
+      },
+      {
+        "label": "#"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "*"
+      },
+      {
+        "label": "•"
+      },
+      {
+        "label": "{"
+      },
+      {
+        "label": "}"
+      },
+      {
+        "label": "_"
+      },
+      {
+        "label": "-"
+      },
+      {
+        "label": "◀",
+        "type": "BACKSPACE"
+      },
+      {
+        "type": "DIVIDER"
+      },
+      {
+        "label": "æ",
+        "type": "SWITCH",
+        "action": "lowercase"
+      },
+      {
+        "label": "🯰",
+        "type": "SWITCH",
+        "action": "numeric"
+      },
+      {
+        "label": "["
+      },
+      {
+        "label": "]"
+      },
+      {
+        "label": " "
+      },
+      {
+        "label": "⮐",
+        "type": "ENTER"
+      }
+    ]
+  }
+]
