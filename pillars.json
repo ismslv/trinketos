@@ -107,5 +107,19 @@
     "skills": {
       "patron": 1
     }
+  },
+  {
+    "username": "JustSimon2099",
+    "joined": "2025-12-26",
+    "skills": {
+      "patron": 3
+    }
+  },
+  {
+    "username": "Kelph",
+    "joined": "2025-12-26",
+    "skills": {
+      "patron": 1
+    }
   }
 ]
