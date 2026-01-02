@@ -1,439 +1,956 @@
 [
   {
     "name": "lowercase",
+    "scale": 0.8,
     "keys": [
       {
-        "label": "a"
+        "actionLong": "!",
+        "label": "1",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "b"
+        "actionLong": "@",
+        "label": "2",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "c"
+        "actionLong": "#",
+        "label": "3",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "d"
+        "actionLong": "$",
+        "label": "4",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "e"
+        "actionLong": "%",
+        "label": "5",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "f"
+        "actionLong": "^",
+        "label": "6",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "g"
+        "actionLong": "\u0026",
+        "label": "7",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "type": "DIVIDER"
+        "actionLong": "*",
+        "label": "8",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "h"
+        "actionLong": "(",
+        "label": "9",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "i"
+        "actionLong": ")",
+        "label": "0",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "j"
+        "role": "BREAK",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "k"
+        "label": "q",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "l"
+        "label": "w",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "m"
+        "label": "e",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "n"
+        "label": "r",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "type": "DIVIDER"
+        "label": "t",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "o"
+        "label": "y",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "p"
+        "label": "u",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "q"
+        "label": "i",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "r"
+        "label": "o",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "s"
+        "label": "p",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "t"
+        "role": "BREAK",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "u"
+        "label": "a",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "type": "DIVIDER"
+        "label": "s",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "Æ",
-        "type": "SWITCH",
-        "action": "uppercase"
+        "label": "d",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "v"
+        "label": "f",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "w"
+        "label": "g",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "x"
+        "label": "h",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "y"
+        "label": "j",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "z"
+        "label": "k",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "◀",
-        "type": "BACKSPACE"
+        "label": "l",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "type": "DIVIDER"
+        "actionLong": "\"",
+        "label": "\u0027",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "🯰",
-        "type": "SWITCH",
-        "action": "numeric"
+        "role": "BREAK",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
+        "label": "z",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "x",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "c",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "v",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "b",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "n",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "m",
+        "role": "TEXT",
+        "roleLong": "UPPERCASE",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "\u003c ×",
+        "role": "BACKSPACE",
+        "roleLong": "TEXT",
+        "size": 1.6,
+        "type": 3
+      },
+      {
+        "role": "BREAK",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "action": "uppercase",
+        "label": "Æ˄",
+        "role": "SWITCH",
+        "roleLong": "TEXT",
+        "size": 1.1,
+        "type": 3
+      },
+      {
+        "action": "symbols",
         "label": "⁈",
-        "type": "SWITCH",
-        "action": "symbols"
+        "role": "SWITCH",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 3
       },
       {
-        "label": " "
+        "label": " ",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 2.3,
+        "type": 1
       },
       {
-        "label": "'"
+        "actionLong": ";",
+        "label": ",",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": ","
+        "actionLong": ":",
+        "label": ".",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
         "label": "⮐",
-        "type": "ENTER"
+        "role": "ENTER",
+        "roleLong": "TEXT",
+        "size": 1.8,
+        "type": 3
       }
     ]
   },
   {
     "name": "uppercase",
+    "scale": 0.8,
     "keys": [
       {
-        "label": "A"
+        "label": "!",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "B"
+        "label": "@",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "C"
+        "label": "#",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "D"
+        "label": "$",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "E"
+        "label": "%",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "F"
+        "label": "^",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "G"
+        "label": "\u0026",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "type": "DIVIDER"
+        "label": "*",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "H"
+        "label": "(",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "I"
+        "label": ")",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "J"
+        "role": "BREAK",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "K"
+        "label": "Q",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "L"
+        "label": "W",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "M"
+        "label": "E",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "N"
+        "label": "R",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "type": "DIVIDER"
+        "label": "T",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "O"
+        "label": "Y",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "P"
+        "label": "U",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "Q"
+        "label": "I",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "R"
+        "label": "O",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "S"
+        "label": "P",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "T"
+        "role": "BREAK",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "U"
+        "label": "A",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "type": "DIVIDER"
+        "label": "S",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "æ",
-        "type": "SWITCH",
-        "action": "lowercase"
+        "label": "D",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "V"
+        "label": "F",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "W"
+        "label": "G",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "X"
+        "label": "H",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "Y"
+        "label": "J",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "Z"
+        "label": "K",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "◀",
-        "type": "BACKSPACE"
+        "label": "L",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "type": "DIVIDER"
+        "label": "\"",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "🯰",
-        "type": "SWITCH",
-        "action": "numeric"
+        "role": "BREAK",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
+        "label": "Z",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "X",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "C",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "V",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "B",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "N",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "M",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "\u003c ×",
+        "role": "BACKSPACE",
+        "roleLong": "TEXT",
+        "size": 1.6,
+        "type": 3
+      },
+      {
+        "role": "BREAK",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "action": "lowercase",
+        "label": "æ˅",
+        "role": "SWITCH",
+        "roleLong": "TEXT",
+        "size": 1.1,
+        "type": 3
+      },
+      {
+        "action": "symbols",
         "label": "⁈",
-        "type": "SWITCH",
-        "action": "symbols"
+        "role": "SWITCH",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 3
       },
       {
-        "label": " "
+        "label": " ",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 2.3,
+        "type": 1
       },
       {
-        "label": "'"
+        "label": ";",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": ","
+        "label": ":",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
         "label": "⮐",
-        "type": "ENTER"
-      }
-    ]
-  },
-  {
-    "name": "numeric",
-    "keys": [
-      {
-        "label": "."
-      },
-      {
-        "label": "\u0026"
-      },
-      {
-        "label": "/"
-      },
-      {
-        "label": "×"
-      },
-      {
-        "type": "DIVIDER"
-      },
-      {
-        "label": "7"
-      },
-      {
-        "label": "8"
-      },
-      {
-        "label": "9"
-      },
-      {
-        "label": "-"
-      },
-      {
-        "type": "DIVIDER"
-      },
-      {
-        "label": "4"
-      },
-      {
-        "label": "5"
-      },
-      {
-        "label": "6"
-      },
-      {
-        "label": "+"
-      },
-      {
-        "type": "DIVIDER"
-      },
-      {
-        "label": "1"
-      },
-      {
-        "label": "2"
-      },
-      {
-        "label": "3"
-      },
-      {
-        "label": "◀",
-        "type": "BACKSPACE"
-      },
-      {
-        "type": "DIVIDER"
-      },
-      {
-        "label": "æ",
-        "type": "SWITCH",
-        "action": "lowercase"
-      },
-      {
-        "label": "⁈",
-        "type": "SWITCH",
-        "action": "symbols"
-      },
-      {
-        "label": "0"
-      },
-      {
-        "label": "⮐",
-        "type": "ENTER"
+        "role": "ENTER",
+        "roleLong": "TEXT",
+        "size": 1.8,
+        "type": 3
       }
     ]
   },
   {
     "name": "symbols",
+    "scale": 1.0,
     "keys": [
       {
-        "label": "!"
+        "label": "!",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "?"
+        "label": "?",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "\u003c"
+        "label": "\u003c",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "\u003e"
+        "label": "\u003e",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": ";"
+        "label": ";",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": ":"
+        "label": ":",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "|"
+        "label": "|",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "type": "DIVIDER"
+        "role": "BREAK",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "\""
+        "label": "\"",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "/"
+        "label": "/",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "("
+        "label": "(",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": ")"
+        "label": ")",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "\""
+        "label": "\"",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "@"
+        "label": "@",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "#"
+        "label": "#",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "type": "DIVIDER"
+        "role": "BREAK",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
-        "label": "*"
+        "label": "\u0026",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "•"
+        "label": "%",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "{"
+        "label": "$",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "}"
+        "label": "€",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "_"
+        "label": "`",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "-"
+        "label": "+",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
+      },
+      {
+        "label": "\u003d",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
+      },
+      {
+        "role": "BREAK",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
+      },
+      {
+        "label": "*",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
+      },
+      {
+        "label": "•",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
+      },
+      {
+        "label": "{",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
+      },
+      {
+        "label": "}",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
+      },
+      {
+        "label": "_",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
+      },
+      {
+        "label": "-",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
         "label": "◀",
-        "type": "BACKSPACE"
+        "role": "BACKSPACE",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 3
       },
       {
-        "type": "DIVIDER"
+        "role": "BREAK",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
+        "action": "lowercase",
         "label": "æ",
-        "type": "SWITCH",
-        "action": "lowercase"
+        "role": "SWITCH",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 3
       },
       {
-        "label": "🯰",
-        "type": "SWITCH",
-        "action": "numeric"
+        "label": "[",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "["
+        "label": "]",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 2
       },
       {
-        "label": "]"
-      },
-      {
-        "label": " "
+        "label": " ",
+        "role": "TEXT",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 1
       },
       {
         "label": "⮐",
-        "type": "ENTER"
+        "role": "ENTER",
+        "roleLong": "TEXT",
+        "size": 1.0,
+        "type": 3
       }
     ]
   }
