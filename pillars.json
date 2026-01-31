@@ -149,5 +149,28 @@
     "skills": {
       "patron": 3
     }
+  },
+  {
+    "username": "hazelmoon",
+    "joined": "2026-01-22",
+    "skills": {
+      "engineer": 2
+    }
+  },
+  {
+    "username": "Oracle",
+    "joined": "2026-01-22",
+    "skills": {
+      "engineer": 1,
+      "designer": 1,
+      "adventurer": 3
+    }
+  },
+  {
+    "username": "Coelho",
+    "joined": "2026-01-22",
+    "skills": {
+      "designer": 2
+    }
   }
 ]
